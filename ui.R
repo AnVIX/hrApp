@@ -1,6 +1,5 @@
 #--------------------------------------------------------
 # ui.R source file for 'hospialRank' Shiny application
-# Execute: runApp('hospitalRank')
 #--------------------------------------------------------
 
 shinyUI(fluidPage(
